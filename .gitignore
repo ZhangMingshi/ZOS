@@ -1,3 +1,7 @@
 .vscode/
 Objects/
 Listings/
+*.o
+*.bin
+*.dis
+*.elf
